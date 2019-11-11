@@ -1,8 +1,3 @@
-# weather_app
+# My first flutter application
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+A main goal is to migrate my [e-Road](https://play.google.com/store/apps/details?id=lt.code1.eKelias) application to cross-platform solution (Android, iOS, MacOS, Windows and Web) using Google Flutter runing on Fuchsia.
